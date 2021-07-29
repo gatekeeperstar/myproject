@@ -34,6 +34,6 @@ with open("result3.txt", "w", encoding="utf-8") as f:
 soup = BeautifulSoup(r.text, "lxml")
 title1 = soup.find("h1", {"id": "gn"}).text
 title2 = soup.find("h1", {"id": "gj"}).text
-print(title1)
-print(title2)
-print(base_url)
+# print(title1)
+# print(title2)
+# print(base_url)
