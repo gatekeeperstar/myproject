@@ -1,0 +1,43 @@
+<html style="height: 100%;">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="shortcut icon" href="https://javgg.net/wp-content/uploads/2020/07/140_Gg_logo_logos-512.png" type="image/x-icon">
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn:hover {
+    background-color: RoyalBlue
+}
+.btn {
+font-weight: bold;
+padding: .6em 5em;
+position: relative;
+text-shadow: -1px -1px 0 rgba(0,0,0,.1);
+width: auto;
+display: inline-block;
+border-radius: 2px;
+font-size: 24px;
+margin: 125px;
+background-color: DodgerBlue;
+border: none;
+color: white;
+cursor: pointer;
+}</style>
+<title>Download Page - Javgg.net</title>
+<body>
+<script src="https://xd3r.javgg.eu/v3/a/ipn/js/158801" async></script>
+
+<script type="text/javascript" src="//x2sfa.javgg.eu/nQuUOQ3.js" data-spots="310148" data-tag="asg" data-subid1="%subid1%"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.6.min.js"></script>
+<style type="text/css">
+  #down_ad,#down_ad2{text-align:center}#link{text-align:center}.sBtn{border:1px solid #34ca47;background:#54bc9f;color:#fff;font-weight:600;padding:.6em 5em;position:relative;text-shadow:-1px -1px 0 rgba(0,0,0,.1);width:auto;display:inline-block;text-decoration:none;border-radius:2px;font-size:19px;margin:50px}a{text-decoration:none;color:#fff}.ad-box{width:300px;height:250px;overflow:hidden;display:inline-block}.ad2>iframe{transform:scaleY(0.834)scaleX(0.953);-o-transform:scaleY(0.834)scaleX(0.953);-moz-transform:scaleY(0.834)scaleX(0.953);-ms-transform:scaleY(0.834)scaleX(0.953);transform-origin:0 0;-o-transform-origin:0 0;-moz-transform-origin:0 0;-ms-transform-origin:0 0}#ad_728{width:600px;margin:0 auto}#ad_728>iframe{transform:scaleY(1)scaleX(0.82417);-o-transform:scaleY(1)scaleX(0.82417);-moz-transform:scaleY(1)scaleX(0.82417);-ms-transform:scaleY(1)scaleX(0.82417);transform-origin:0 0;-o-transform-origin:0 0;-moz-transform-origin:0 0;-ms-transform-origin:0 0}
+</style>
+<div id="link">
+<a href="https://www.watchjavnow.xyz/f/jd1egudg6pnmwg1" class="btn"><i class="fa fa-download"></i> Click Me To Download</a>
+
+<iframe class="na" frameborder="0" scrolling="no" width="900" height="250" sandbox="allow-scripts allow-popups allow-forms allow-same-origin" src="//x2sfa.javgg.eu/api/spots/317285?p=1&s1=%subid1%&kw="></iframe>
+</div>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'66f308f3cb06eba5',m:'7b0f0317ff08097d412a45032722e0cb5e9f95a8-1626352571-1800-AfDd98haAbjgRDegGsfldO8CiyV0JHPB5TADHf1nOdjBilBo67WH1Gz6BtnZrjMYdb1oBvaYm8sz3oTTin783ljC6wv02ZcpX7vuEGk7cXp+epfD6uuzhMGQyzvcb+SdxYn+0hqOA/YO+iudRPdg1fJm/q6bg9xopK/7Af0QCeB6GSr/egOeRJuFpcRCT2WCESEsPfd7wC9LI6gbMZ1QoGSZaNNpC6A7X8W0cSNv+unvPoCIw2Ek5zwW1obao+FPXw==',s:[0x36eb4e1d24,0x0ce3c0fa56],}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"66f308f3cb06eba5","version":"2021.6.0","r":1,"token":"52835af5698c4a55828806ba16e93e1a","si":10}'></script>
+</body>
+</html>
